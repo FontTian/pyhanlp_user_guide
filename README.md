@@ -1,6 +1,6 @@
 # pyHanLP_user_guide
 这是pyhanlp的用户指南。旨在帮助你快速上手和掌握pyhanlp。
-目前已经被pyhanlp的wiki作为衍生品收录。
+目前已经被pyhanlp的wiki作为衍生作品收录。
 
 # 文件路径问题
 
